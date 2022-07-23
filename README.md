@@ -1,5 +1,3 @@
-**black history month -> the independent alligator newspaper**
+**The Independent Alligator: Black History Month Special**
 
-BHM Project created by Nehemie Yacinthe and Meaghan Estrada for The Independent Alligator.
-
-Info: Nehemie is a Web Developer for The Independent Alligator. Meaghan is the Lead Web Developer & Web Development Manager. Worked on February 2022, published March 2022.
+Created a special project for Black History Month (2022) utilizing HTML, CSS, and Javascript while working under The Independent Alligator as Web Development Manager & Lead Web Developer. Worked with Nehemie Yacinthe, Web Developer for The Alligator.
